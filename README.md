@@ -1,5 +1,5 @@
-## FOR DEPLOY BOT 
+<h2 align="center">
+    ──「 DEPLOY ON HEROKU 」──
+</h2>
 
-[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2Flucifeermorningstar%2FDevilScanner&template=https%3A%2F%2Fgithub.com%2FLucifeermorningstar%2FDevilScanner)
-
--
+<p p align="center"><a href="https://heroku.com/deploy?template=https://github.com/DuskyMusic/GBAN"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-purple?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
